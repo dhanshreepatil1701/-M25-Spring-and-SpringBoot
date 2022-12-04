@@ -16,5 +16,4 @@ public class Test {
 		s1.selectALLrows();
 		
 	}
-
 }
