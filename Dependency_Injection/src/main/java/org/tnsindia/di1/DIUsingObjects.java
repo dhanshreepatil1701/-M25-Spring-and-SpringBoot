@@ -12,5 +12,4 @@ public class DIUsingObjects {
 				
 				s1.cheating();
 	}
-
 }
