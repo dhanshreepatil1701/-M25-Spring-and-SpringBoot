@@ -1,6 +1,5 @@
 package org.tnsindia.springioc;
 
-
 public class Jio implements Sim{
 
 	public void calling() {
